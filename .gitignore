@@ -1,1 +1,6 @@
 venv
+.vscode
+model_test
+export
+
+covid_clean_total.csv
