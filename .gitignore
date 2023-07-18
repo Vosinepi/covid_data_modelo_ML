@@ -4,3 +4,4 @@ model_test
 export
 
 covid_clean_total.csv
+df_covid_balanceado.csv
